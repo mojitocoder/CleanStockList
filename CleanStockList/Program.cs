@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using RestSharp;
+using System.Threading;
 
 namespace CleanStockList
 {
@@ -31,39 +32,31 @@ namespace CleanStockList
             {
                 var elements = line.Split('\t');
                 return elements[1];
-            }).Distinct().ToList().Take(10);
+            }).Distinct().ToList();
 
             //Prepare Restsharp
             var client = new RestClient("http://dev.markitondemand.com/");
             //var request = new RestRequest("/MODApis/Api/v2/Quote?symbol={code}", Method.GET);
 
-            var stocks = new List<StockQuote>();
-            foreach (var symbol in symbols)
-            {
-                //request.AddUrlSegment("code", symbol);
-                var request = new RestRequest($"/MODApis/Api/v2/Quote?symbol={symbol}", Method.GET);
-                var response = client.Execute<StockQuote>(request);
-                var stock = response.Data;
-
-                if (!string.IsNullOrEmpty(stock.Name))
-                {
-                    stocks.Add(stock);
-                }
-            }
-
-            //var stocks = symbols.Select(symbol =>
-            //{
-            //    request.AddUrlSegment("code", symbol);
-            //    var response = client.Execute<StockQuote>(request);
-            //    return response.Data;
-            //}).Where(foo => !string.IsNullOrEmpty(foo.Name)).ToList();
-
             //Write into a target file
             var targetFileName = Path.GetFileNameWithoutExtension(filePath) + "_Valid.txt";
-            File.WriteAllLines(targetFileName, stocks.Select(stock =>
+            using (var file = File.CreateText(targetFileName))
             {
-                return String.Format($"{stock.Symbol}\t{stock.Name}");
-            }));
+                foreach (var symbol in symbols)
+                {
+                    Thread.Sleep(TimeSpan.FromSeconds(2)); //so as not go over the limit of MarkitOnDemand
+
+                    //request.AddUrlSegment("code", symbol);
+                    var request = new RestRequest($"/MODApis/Api/v2/Quote?symbol={symbol}", Method.GET);
+                    var response = client.Execute<StockQuote>(request);
+                    var stock = response.Data;
+
+                    if (stock != null && !string.IsNullOrEmpty(stock.Name))
+                    {
+                        file.WriteLine(String.Format($"{stock.Symbol}\t{stock.Name}"));
+                    }
+                }
+            }
         }
     }
 }
