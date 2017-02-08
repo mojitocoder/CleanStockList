@@ -1,0 +1,2465 @@
+A K Steel	AKS	
+A M R	AMR	
+A M R Cp 7.875	AAR	
+A V X	AVX	
+A a R	AIR	
+A.h. Belo Corporation	AHC	
+Aaron Rents	RNT.A	
+Aaron Rents	RNT	
+Aarons Cl A	AAN.A	
+Aarons Inc.	AAN	
+Ab Svensk Cdss Arbmn	CBJ	
+Ab Svensk Ekport	AXF	
+Ab Svensk Ekportkrdt	SQT	
+Ab Svensk Ekportkred	DVK	
+Ab Svensk Ekportkred	IWK	
+Ab Svensk Ekportkred	RCW	
+Ab Svensk Ekportkred	EOA	
+Ab Svensk Msci Arn	MIS	
+Ab Svensk Russell	REU	
+Ab Svensk Sp Arns	SAD	
+Ab Svensk Sp Arns	MHG	
+Abb	ABB	
+Abbott Labs	ABT	
+Abercrombie & Fitch	ANF	
+Abitibi	ABY	
+Abm	ABM	
+Acadia	AKR	
+Acc Bear Amex Egy	IMW	
+Acc Bear Mkt Nts Sp	BJV	
+Acc Rt Nt Sp Mid 400	SZM	
+Acc Rtm Nts Sp500	ODY	
+Acc Rtn Nts Sp 500	SZI	
+Accel Nts Russell	RDF	
+Accelerated Return Bear Market Notes	ICT	
+Accelerated Return Notes Linked to	MKY	
+Accenture	ACN	
+Accerlated Bear Mkt	BFN	
+Acco	ABD	
+Ace	ACE	
+Action Performance	ATN	
+Actuant	ATU	
+Acuity	AYI	
+Adams Express	ADX	
+Administadora De Pensiones	PVD	
+Administaff	ASF	
+Advance America	AEA	
+Advance Auto Parts	AAP	
+Advanced Medical Optics	EYE	
+Advanced Micro	AMD	
+Advanced Semiconductors	ASX	
+Advantest	ATE	
+Aecom Technology Cor	ACM	
+Aegean Marine Petrol	ANW	
+Aegon	AEG	
+Aegon Fltg Perp	AEO	
+Aegon N.v.	AEF	
+Aegon N.v.	AEV	
+Aegon N.v.	AEB	
+Aegon Perp Cap	AED	
+Aegon Perp Cap	AEH	
+Aercap Holdings N.v.	AER	
+Aeropostale	ARO	
+Aes	AES	
+Aetna	AET	
+Affiliated Computer	ACS	
+Affiliated Managers	AMG	
+Aflac	AFL	
+Agco	AG	
+Agco Corp	AGCO	
+Agilent	A	
+Agnico Eagle Mines	AEM	
+Agree Realty	ADC	
+Agria Corp Ads	GRO	
+Agrium	AGU	
+Aig Nikkei 225 Mitts	NOW	
+Air Products	APD	
+Aircastle Ltd.	AYR	
+Airgas	ARG	
+Airtran	AAI	
+Aktiebolaget Svensk	AQD	
+Alabama Power Co.	ALQ	
+Alabama Power Co.	ALZ	
+Alabama Power Co.	ABA	
+Alabama Power Sr Aa 5.625	ALF	
+Alamo	ALG	
+Alaska Air	ALK	
+Albany	AIN	
+Albemarle	ALB	
+Alberto Culver	ACV	
+Alcatel-lucent	ALU	
+Alcoa	AA	
+Alcon	ACL	
+Alesco Financial	AFN	
+Alexander Baldwin Inc.	AXB	
+Alexanders	ALX	
+Alexandria	ARE	
+Alleghany	Y	
+Allegheny	AYE	
+Allegheny	ATI	
+Allergan	AGN	
+Allete	ALE	
+Alliance All Market	AMO	
+Alliance Bernstein	AB	
+Alliance Data	ADS	
+Alliance Imaging	AIQ	
+Alliance One	AOI	
+Alliant	ATK	
+Alliant Energy	LNT	
+Allianz Aktiengesell	AZ	
+Allianz Se	AZM	
+Allied Capital	ALD	
+Allied Irish	AIB	
+Allied World Assurance Company Holdings	AWH	
+Allis-chalmers Energy	ALY	
+Allmerica	AFC	
+Allmerica Securities	ALM	
+Allstate	ALL	
+Alon	ALJ	
+Alpha Natural	ANR	
+Alpine Gbl Prmr Prop	AWP	
+Altria	MO	
+Alumina	AWC	
+Aluminum China	ACH	
+Amb Properties	AMB	
+Ambac	ABK	
+Ambac 5.875 Deb	AKT	
+Ambac Finl 5.95 Debs	AKF	
+Amcol	ACO	
+Amdocs	DOX	
+Amerada Hess	HES	
+Ameren	AEE	
+America Movil	AMX	
+American Axle	AXL	
+American Campus	ACC	
+American Dairy	ADY	
+American Electric Power	AEP	
+American Equity Life	AEL	
+American Express	AXP	
+American Financial	AFG	
+American Financial	AFE	
+American Greetings	AM	
+American International	AIG	
+American International Grp.	AFF	
+American International Grp.	AVF	
+American Land Lease	ANL	
+American Oriental Bioengineering	AOB	
+American Realty	ARL	
+American Repro	ARP	
+American Safety	ASI	
+American States Water	AWR	
+American Tower	AMT	
+American Vanguard Corp.	AVD	
+American Wtr Wrks	AWK	
+Americredit	ACF	
+Amerigas	APU	
+Amerigroup	AGP	
+Amerisourcebergen	ABC	
+Ameron	AMN	
+Ametek	AME	
+Amn Healthcare	AHS	
+Amp	AMP	
+Ampco-pittsburgh	AP	
+Amphenol	APH	
+Amrep	AXR	
+Anadarko	APC	
+Analog Devices	ADI	
+Angelica	AGL	
+Anglogold Ashanti	AU	
+Anixter	AXE	
+Annaly Mortgage	NLY	
+Anntaylor Stores	ANN	
+Anthem Eqty Sec Unts	ATV	
+Anthracite	AHR	
+Anworth	ANH	
+Aon	AOC	
+Apache	APA	
+Apartment Investment	AIV	
+Applied Industrial	AIT	
+Aptar	ATR	
+Aqua America	WTR	
+Aracruz Celulose	ARA	
+Arbitron	ARB	
+Arbor	ABR	
+Arch Chemicals	ARJ	
+Arch Coal	ACI	
+Archer Daniels	ADM	
+Arena Resources	ARD	
+Armstrong World Indu	AWI	
+Arrow Electronics	ARW	
+Arvinmeritor	ARM	
+Asbury	ABG	
+Ashford Hospitality	AHT	
+Ashland	ASH	
+Aspen Insurance	AHL	
+Assisted Living Concepts (nevada	ALC	
+Associated Estates	AEC	
+Assurant	AIZ	
+Assured Guaranty	AGO	
+Astoria	AF	
+Astrazeneca	AZN	
+Atlanta Gas Light	ATG	
+Atlas Pipeline	APL	
+Atlas Pipeline Holdings Lp	AHD	
+Atmos	ATO	
+Att	T	
+Att	ATT	
+Atwood Oceanics	ATW	
+Au Optronics	AUO	
+Autoliv	ALV	
+Autonation	AN	
+Autozone	AZO	
+Av Svensk Ekportkred	NEH	
+Avalonbay	AVB	
+Aventine Renew Enrgy	AVR	
+Avery Dennison	AVY	
+Avis Budget Grp.	CAR	
+Avista	AVA	
+Avnet	AVT	
+Avon Products	AVP	
+Axa	AXA	
+Axis	AXS	
+Azz	AZZ
+B C E	BCE	
+B P Prudhoe Bay	BPT	
+B R T Realty Trust	BRT	
+Babcock Brown Air	FLY	
+Badger Meter Inc.	BMI	
+Bairnco	BZ	
+Baker Hughes	BHI	
+Baldor	BEZ	
+Ball	BLL	
+Bally	BYI	
+Banco Bilbao Arg	BBV	
+Banco Bradesco	BBD	
+Banco De Chile	BCH	
+Banco Itau	ITU	
+Banco Latino Americano	BLX	
+Banco Macro Bansud	BMA	
+Banco Santander	STD	
+Banco Santander Chile	SAN	
+Bancolombia	CIB	
+Bancorpsouth	BXS	
+Bank America Corp	CFU	
+Bank America Internotes	IKR	
+Bank Atlantic	BBX	
+Bank of America	BAC	
+Bank of America	MPE	
+Bank of America	SHK	
+Bank of America Corp	SJD	
+Bank of America Corp	SKC	
+Bank of America Corp	MGJ	
+Bank of America Corp.	IKM	
+Bank of America Cp	GBN	
+Bank of Hawaii	BOH	
+Bank of Montreal	BMO	
+Bank of N Y	BK	
+Bank of Nova Scotia	BNS	
+Bankof Am 5.50 Inter	IKL	
+Barclays	BCS	
+Barclays Bank Plc Ipath Sp 500 Vix	VXZ	
+Barclays Bank Plc Ipath Sp 500 Vix	VXX	
+Barclays Gems Asia-8	AYT	
+Bard C R	BCR	
+Barnes	B	
+Barnes & Noble	BKS	
+Barrick Gold	ABX	
+Basic Energy	BAS	
+Baxter	BAX	
+Baytex	BTE	
+Bb & T	BBT	
+Bb Cboe Sp500 Ipath	BWV	
+Bbva Banco Frances	BFR	
+Bear Market Stars Linked to the Consumer	BJT	
+Bear Stearn Alerian	BSR	
+Beazer	BZH	
+Beckman Coulter	BEC	
+Becton Dickinson	BDX	
+Bed Bath & Beyond	MSJ	
+Belden Cdt	BDC	
+Belo	BLC	
+Bemis	BMS	
+Benchmark Electronic	BHE	
+Berkley (w. R.) Corp.	WRB	
+Berkshire Hath A	BRK.A	
+Berkshire Hath B	BRK.B	
+Berry	BRY	
+Best Buy	BBY	
+Bg Foods (new)	BGF	
+Bhp Billiton	BHP	
+Bhp Billiton Sp	BBL	
+Big Lots Inc.	BIG	
+Bill Barrett	BBG	
+Bio-rad Laboratories Cl B	BIO.B	
+Bio-rad Laboratories Inc.	BIO	
+Biomed	BMR	
+Biovail	BVF	
+Bj Services	BJS	
+Bjs Wholesale Club	BJ	
+Black Decker	BDK	
+Black Hills	BKH	
+Blackrck Gl Op Eq	BOE	
+Blackrock	BLK	
+Blackrock Ca Mun	BFZ	
+Blackrock Ca Mun2018	BJZ	
+Blackrock Cal Mun Bd	BZA	
+Blackrock Dfnd Op Cr	BHL	
+Blackrock Div Ach	BDJ	
+Blackrock Ecosltions	BQR	
+Blackrock Global Equity Income Trust	BFD	
+Blackrock High Income	HIS	
+Blackrock Long-term Municipal Advantage	BTA	
+Blackrock Mun	BFK	
+Blackrock Ny Muni Bd	BQH	
+Blackrock Pfd Eq	BTZ	
+Blackrock World	BWC	
+Blackstone Grp Lp Ut	BX	
+Blockbuster	BBI	
+Blockbuster	BBI.B	
+Blount	BLT	
+Blue Sq Israel	BSI	
+Bluegreen	BXG	
+Bluelinx	BXC	
+Blyth S2	BTH	
+Bmc	BMC	
+Bnsf	BNI	
+Boa	IKJ	
+Boardwalk Pipeline	BWP	
+Boca Resorts	RST	
+Boeing	BA	
+Borders	BGP	
+Borg Warner	BWA	
+Boston Beer	SAM	
+Boston Properties	BXP	
+Boston Scientific	BSX	
+Bowne & Co	BNE	
+Boyd Gaming	BYD	
+Bp	BP	
+Brady	BRC	
+Brandywine	BDN	
+Brasil Telecom	BTM	
+Brasil Telecom	BRP	
+Braskem	BAK	
+Bre	BRE	
+Bridgepoint Educatio	BPI	
+Bridges on Ten Comp	TPA	
+Briggs Stratton Dc	BGG	
+Brinker	EAT	
+Brinks	BCO	
+Brinks Home Securit	CFL	
+British Sky	BSY	
+Brookdale Senior Lvg	BKD	
+Brookfield	BPO	
+Brookfield Asset Mgt	BAM	
+Brookfield Homes	BHS	
+Brookfield Infrastru	BIP	
+Brown & Brown	BRO	
+Brown Forman A	BF.A	
+Brown Forman B	BF.B	
+Brown Shoe	BWS	
+Brunswick	BC	
+Brush Engineered Mat	BW	
+Bt	BT	
+Buckeye	BKI	
+Buckeye Gp Holdings Lp	BGH	
+Buckeye Partners	BPL	
+Buckle	BKE	
+Buffer Notes Sp 500	BPD	
+Build a Bear Workshop	BBW	
+Bunge	BG	
+Burger King Holdings	BKC	
+Burlington	BR	
+Burlington Coat Factory	BCF	
+Bway Holdings	BWY	
+C & D	CHP	
+C D I	CDI	
+C N L Realty Invest	NNN	
+C N a Financial	CNA	
+C N a Surety	SUR	
+C P I	CPY	
+C T S	CTS	
+C a C I	CAI	
+Cabco Serie 2004-101	GYB	
+Cabelas	CAB	
+Cablevision System	CVC	
+Cabot	CBT	
+Cabot Oil Gas	COG	
+Caci Intl	CACI	
+Cadbury	CBY	
+Cae	CGT	
+Cai International I	CAP	
+Cal Dive International	DVR	
+Calamos Gbl Dyn	CHW	
+Calgon Carbon	CCC	
+California Water	CWT	
+Callaway Golf	ELY	
+Callon	CPE	
+Calpine	CPN	
+Cambrex	CBM	
+Camden Property	CPT	
+Cameco	CCJ	
+Campbell Soup	CPB	
+Canadian Natural	CNQ	
+Canadian Pacific Railway	CP	
+Canadian Railway	CNI	
+Canon	CAJ	
+Cantel	CMN	
+Capital Lease Fnding	LSE	
+Capital Lodging	TCL	
+Capital One	COF	
+Capital Protected No	GIC	
+Capital Sr Living	CSU	
+Capital Trust Sbi	CT	
+Capitalsource	CSE	
+Capitol Bancorp	CBC	
+Capped Leveraged Index Return Notes	MKI	
+Capped Leveraged Index Return Notes	BPF	
+Capped Leveraged Index Return Notes	RHQ	
+Capstead	CMO	
+Carbo Ceramics	CRR	
+Cardinal Health	CAH	
+Carlisle	CSL	
+Carmax	KMX	
+Carnival	CCL	
+Carnival	CUK	
+Carpenter	CRS	
+Carriage	CSV	
+Carters	CRI	
+Cascade	CAE	
+Cascal Nv	HOO	
+Cash America	CSH	
+Castle (a.m.) Co.	CAS	
+Caterpillar	CAT	
+Cato	CTR	
+Cb Richard Ellis	CBG	
+Cbl	CBL	
+Cbs	CBS	
+Cbs	CBS.A	
+Cbs Corp	RBV	
+Cec Entertainment	CEC	
+Cedar Fair	FUN	
+Cedar Shop	CDR	
+Celanese	CE	
+Celestica	CLS	
+Cemex	CX	
+Centene	CNC	
+Centerpoint	CNP	
+Centerpulse	CEP	
+Centex	CTX	
+Centracore	CPV	
+Centrais Eletricas Brasileiras S.a.-eletrobras	EBR	
+Centrais Eletricas Brasileiras S.a.-eletrobras	EBR.B	
+Central Pacific Financial	CPF	
+Central Vermont Public Service	CV	
+Centurytel	CTL	
+Cenveo	CVO	
+Certegy	FIS	
+Cf Industries	CF	
+Cf Msci Eafe Ppeln	PPI	
+Cf Russel 1k Gr Ppns	PLR	
+Cf Sp 500 Lasers	IEL	
+Cfi Cboe Sp 500 Bw	PBN	
+Cfi Djia Ppns	PPJ	
+Cfi Us Eur Jpn Smun	SJP	
+Cgf Nikkei 225 Ppns	PFT	
+Cgi Group	GIB	
+Cgm Ppn Dj Gl Titan	PNJ	
+Ch Energy	CHG	
+Champion Enterprises	CHB	
+Charles River Lab	CRL	
+Checkpoint	CKP	
+Chemed	CHE	
+Chesapeake	CPK	
+Chesapeake	CHK	
+Chevron	CVX	
+Chicago Bridge & Iron	CBI	
+Chicos F a S	CHS	
+Chimera Investment	CIM	
+China Digital Tv Holding Co.	STV	
+China Eastern Airlne	CEA	
+China Life	LFC	
+China Mobile	CHL	
+China Nepstar Ads	NPD	
+China Petroleum	SNP	
+China South Air	ZNH	
+China Telecom	CHA	
+China Unicom	CHU	
+China Yuchai	CYD	
+Chipotle Mex Grill	CMG	
+Chipotle Mexican Grill Cl B	CMG.B	
+Chiquita	CQB	
+Choice Hotel	CHH	
+Christopher	CBK	
+Chubb	CB	
+Chunghwa	CHT	
+Church Dwight	CHD	
+Ciba	CSB	
+Ciber	CBR	
+Cigna	CI	
+Cimarex	XEC	
+Cincinnati Bell	CBB	
+Cinemark Holdings	CNK	
+Circor	CIR	
+Cit Group	CIT	
+Citadel Broadcasting	CDL	
+Citigroup	C	
+Citigroup	MYP	
+Citigroup	BUW	
+Citigroup	BGI	
+Citigroup	EJQ	
+Citigroup	MOU	
+Citigroup Archer Dan	EYA	
+Citigroup Ebay Pacer	PPK	
+Citigroup Es50 Smuns	SOG	
+Citigroup Fdg	BEJ	
+Citigroup Fdg	ECB	
+Citigroup Fdg	EYJ	
+Citigroup Fndg Elks	EHC	
+Citigroup Funding	EKG	
+Citigroup Funding	EAZ	
+Citigroup Funding	EGJ	
+Citigroup Funding	PBA	
+Citigroup Funding	BLZ	
+Citigroup Funding In	ELQ	
+Citigroup Funding In	ECK	
+Citigroup Funding In	ESM	
+Citigroup Funding In	EBY	
+Citigroup Funding Sm	SPU	
+Citigroup Funding Sm	CKK	
+Citigroup Fundng	EAP	
+Citigroup Fundng	BUN	
+Citigroup Fundng	BYL	
+Citigroup Fundng	EGK	
+Citigroup Gbl Pp Nts	PDY	
+Citigroup Glb Nasdaq	PQU	
+Citigroup Global Markets Holdings	EHD	
+Citigroup Lasers Eur	IDJ	
+Citigroup Oracle Elk	EJS	
+Citigrp Fdg Bffr Nts	BLM	
+Citigrp Gbl Dj Ind	PPN	
+Citizen	CIA	
+City National	CYN	
+Cke Restaurants	CKR	
+Clarcor	CLC	
+Claymore/guggenheim	GOF	
+Clear Channel	CCU	
+Clear Channl Outdoor	CCO	
+Clearwater Paper Cp	CLW	
+Cleco	CNL	
+Cleveland Cliffs	CLF	
+Clorox	CLX	
+Cms Energy	CMS	
+Cnf	CNW	
+Cnh Global	CNH	
+Cnooc	CEO	
+Cnx Gas	CXG	
+Coach	COH	
+Coachmen	COA	
+Cobalt	CBZ	
+Coca Cola	CCE	
+Coca Cola	KO	
+Coca Cola Femsa	KOF	
+Coca Cola Hellen	CCH	
+Coeur D Alene	CDE	
+Cogdell Spencer	CSA	
+Cohen Steers Glbl	INB	
+Cohen & Steers	CNS	
+Coles Meyer	CM	
+Colfax Corp.	CFX	
+Colgate Palmolive	CL	
+Colonial Bancgroup	CNB	
+Colonial Properties Trust (al)	CLP	
+Comcast Corp (new)	CCW	
+Comcast Pcs Dbs	CCZ	
+Comerica	CMA	
+Comfort Systems	FIX	
+Commercial Metals	CMC	
+Commscope	CTV	
+Community Bank	CBU	
+Community Health	CYH	
+Comp De Beba Am	ABV	
+Comp De Bebi Am	ABV.C	
+Comp Energ Cemig	CIG	
+Companhia Brasil	CBD	
+Companhia Energetica De Minas Gerais	CIG.C	
+Companhia Paranaense De Energia	ELP	
+Companhia Sanea	SBS	
+Companhia Sider	SID	
+Companhia Vale	RIO	
+Companhia Vale Ads	VALE.P	
+Companhia Vale Do Rio Doce	VALE	
+Compania De Telecomm	CTC	
+Compania Min Buen	BVN	
+Compass Minerals	CMP	
+Compellent Tech	CML	
+Complete Production Services	CPX	
+Compton	CMZ	
+Computer Sciences	CSC	
+Compx	CIX	
+Comstock	CRK	
+Conagra Food	CAG	
+Concho Resources	CXO	
+Conocophillips	COP	
+Cons Edison	ED	
+Cons Energy	CNX	
+Cons Graphics	CGX	
+Conseco	CNO	
+Constellation	STZ.B	
+Constellation	STZ	
+Constellation Energy	CEG	
+Continental Resrces	CLR	
+Contl Airlines	CAL	
+Convergys	CVG	
+Cooper	COO	
+Cooper	CBE	
+Cooper Cameron	CAM	
+Cooper Tire Rubber	CTB	
+Copa	CPA	
+Core Labs	CLB	
+Corn Products	CPO	
+Cornell	CRN	
+Corning	GLW	
+Corp Asset Bckd	GYC	
+Corp Asset Bckd Gs	GYA	
+Corpbanca Reg S Gdr	BCA	
+Corporate Backed Cal	JBR	
+Corporate Office Properties	OFC	
+Corrections Corp America	CXW	
+Corus Entertainmt	CJR	
+Cosan Limited Cl A	CZZ	
+Cott	COT	
+Cousins Properties	CUZ	
+Covance	CVD	
+Covanta	CVA	
+Coventry Hlth Care	CVH	
+Covidien Ltd	COV	
+Cox Radio A	CXR	
+Cpfl Energia	CPL	
+Crane	CR	
+Crawford	CRD.A	
+Crawford	CRD.B	
+Credicorp	BAP	
+Credit Suisse	CSR	
+Credit Suisse Elemen	PMY	
+Credit Suisse Elemen	GWO	
+Credit Suisse Grp.	CS	
+Criimi Mae	CMM	
+Cross Timbers	CRT	
+Crown	CCK	
+Crown Castle	CCI	
+Cryolife	CRY	
+Css Industries	CSS	
+Csx	CSX	
+Cubic Corp	CUB	
+Cullen Frost	CFR	
+Culp	CFI	
+Cummins	CMI	
+Curtiss Wright	CW	
+Cushing Mlp Ttl Rtn	SRV	
+Cvs	CVS	
+Cypress Semiconductr	CY	
+Cytec	CYT	
+D P L	DPL	
+D T E Energy	DTE	
+Daimler Ag	DAI	
+Daimlerchrysler	DCX	
+Dana Holding Corp	DAN	
+Danaher	DHR	
+Danaos Corp.	DAC	
+Darden	DRI	
+Darling International Inc.	DAR	
+Davita	DVA	
+Dcp Midstream	DPM	
+Dct Industrial Trust	DCT	
+Dean	DF	
+Deere	DE	
+Del Monte	DLM	
+Delek Us Holdings	DK	
+Delphi 8.0 Sr Nt	DFY	
+Delphi A	DFG	
+Delphi Financial Grp. Inc.	DFP	
+Delta Air Lines	DAL	
+Deltic Timber	DEL	
+Deluxe	DLX	
+Denbury	DNR	
+Department 56	DFS	
+Desarrolladora Homex	HXM	
+Deutsche Bank	DB	
+Deutsche Contingent	DTK	
+Deutsche Telekom	DT	
+Deutshe Bank Ag Elem	WMW	
+Developers Realty	DDR	
+Devon	DVN	
+Devry	DV	
+Dex Media	DEX	
+Diageo	DEO	
+Dial	DL	
+Diamond Offshore Drilling	DO	
+Diamondrock Hospitality	DRH	
+Diana Shipping	DSX	
+Dice Holdings	DHX	
+Dicks Sporting Goods	DKS	
+Diebold	DBD	
+Digital Trust	DLR	
+Dillards	DDS	
+Dineequity	DIN	
+Distribucion Y Servi	DYS	
+Dj Euro Stoxx 50 Idx	DBX	
+Dolby Labs	DLB	
+Dollar Thrifty Auto	DTG	
+Doman Media Company	DM	
+Dominion	D	
+Dominion Resources	DCP	
+Dominion Warr	DOM	
+Dominos Pizza	DPZ	
+Domtar Corp	UFS	
+Donaldson	DCI	
+Doral Financial	DRL	
+Double Hull Tankers	DHT	
+Douglas Emmett	DEI	
+Dover	DOV	
+Dover Downs	DDE	
+Dover Motorsports	DVD	
+Dow 30 Ehc Prm	DPO	
+Dow Chemical	DOW	
+Dr Horton	DHI	
+Dr Pepper Snapple Gp	DPS	
+Dr. Reddys Lab	RDY	
+Dreamworks Animation	DWA	
+Dresser Rand	DRC	
+Drew Industry	DW	
+Dril Quip	DRQ	
+Dst Systems	DST	
+Dsw	DSW	
+Du Pont E I De Nem	DD	
+Ducati Motor	DMH	
+Ducommun	DCO	
+Duff Phelps Cl A	DUF	
+Duke	DUK	
+Duke Realty	DRE	
+Duncan Energy Partners L.p.	DEP	
+Dupont Fabros Tech	DFT	
+Dws Dreman Value	DHG	
+Dws Rreef Wld Re Str	DRP	
+Dycom	DY	
+Dynegy	DYN	
+Dynex	DX	
+E M C O R	EME	
+E-house Holdings Adr	EJ	
+E-tracs Ubs Bloomber	UBC	
+E-tracs Ubs Bloomber	UBG	
+E-tracs Ubs Bloomber	FUD	
+E-tracs Ubs Bloomber	UBM	
+E-tracs Ubs Bloomber	USV	
+E-tracs Ubs Bloomber	UBN	
+E-tracs Ubs Shrt Etn	PTD	
+Eagle Materials	EXP	
+Eastern American Natural Gas	NGT	
+Eastgroup	EGP	
+Eastman	EMN	
+Eastman Kodak	EK	
+Eaton Vance	EV	
+Eaton Vance Rm Dv Eq	ETJ	
+Ecolab	ECL	
+Edison	EIX	
+Education Realty	EDR	
+Edwards Lifesciences	EW	
+Efunds	EFD	
+El Paso	EP	
+El Paso Electric	EE	
+El Paso Pipeline Prt	EPB	
+Elan	ELN	
+Elinear	ELU	
+Embarq	EQ	
+Embotell Andina	AKO.A	
+Embotell Andina	AKO.B	
+Embraer Empresa Br	ERJ	
+Emc	EMC	
+Emergency Medical	EMS	
+Emergent Biosolutions	EBS	
+Emeritus Corp.	ESC	
+Emerson	EMR	
+Empire Electric	EDE	
+Employers Holdings	EIG	
+Empresa	EOC	
+Empresa Dist Y Com	EDN	
+Empresas Ica Soc Con	ICA	
+Emrise Corp New	ERI	
+Emulex	ELX	
+Enbridge	ENB	
+Enbridge	EEQ	
+Enbridge Energy	EEP	
+Encana	ECA	
+Encore Acquisition	EAC	
+Encore Energy Ptn	ENP	
+Endurance Splty	ENH	
+Energen	EGN	
+Energizer	ENR	
+Energy Partners	EPL	
+Energy Transfer	ETP	
+Energy Transfer Equity	ETE	
+Energysolutions	ES	
+Enersis S A	ENI	
+Enersys	ENS	
+Engelhard	EC	
+Eni S.p.a.	E	
+Ennis	EBF	
+Enpro	NPO	
+Ensco	ESV	
+Entercom	ETM	
+Entergy	ETR	
+Entergy Arkansas 6.0	EHB	
+Entergy Arkansas Inc.	EHA	
+Entergy Lousiana Llc	EHL	
+Entergy Miss 1st Mortgage	EMQ	
+Entergy Ms 7.25	EMO	
+Enterprise Group	EPE	
+Enterprise Products	EPD	
+Entertainment Properties	EPR	
+Entravision	EVC	
+Enzo Biochem	ENZ	
+Eog	EOG	
+Epcos	EPC	
+Equant .	ENT	
+Equifax	EFX	
+Equitable	EQT	
+Equity Lifestyle	ELS	
+Equity One	EQY	
+Equity Residental	EQR	
+Equity Secs Tr Ii	RET	
+Esco	ESE	
+Essex Property	ESS	
+Estee Lauder	EL	
+Esterline	ESL	
+Etablissements Delha	DEG	
+Ethan Allen Interior	ETH	
+Evercore Partners	EVR	
+Everest	RE	
+Evergreen Balanced Income Fund	EBI	
+Evergreen Energy	EEE	
+Ex Resources	XCO	
+Excel Maritime Carr	EXM	
+Exelon	EXC	
+Expressjet	XJT	
+Exterran Holdings	EXH	
+Extra Space Storage	EXR	
+Exxon Mobil	XOM	
+F M C	FMC	
+F N B	FNB	
+F P L	FPL	
+F/c Dyn Eq	HCE	
+Factset	FDS	
+Fair Isaac	FIC	
+Fairchild	FA	
+Fairchild Semiconductor	FCS	
+Fairfax	FFH	
+Fairpoint	FRP	
+Family Dollar Stores	FDO	
+Fannie Mae	FNM	
+Fbl Financial	FFG	
+Fed Agricul Mortgage A	AGM.A	
+Fed Agricul Mortgage C	AGM	
+Federal Ntl Mtg Pfd	FNA	
+Federal Realty	FRT	
+Federal Signal	FSS	
+Federated Investor	FII	
+Fedex	FDX	
+Felcor Lodging	FCH	
+Femsa Fomento	FMX	
+Ferrellgas Partners	FGP	
+Ferro	FOE	
+Fidelity National	FNF	
+Fifth Street Finance	FSC	
+Financial Federal	FIF	
+Financial Sec Nts	FSF	
+Finl Sec Assur Nts	FSE	
+First Acceptance	FAC	
+First American	FAF	
+First Bancrp	FBP	
+First Commonwlth	FCF	
+First Horizon	FHN	
+First Industrial	FR	
+First Marblehead	FMD	
+First Mercury Financial Corp	FMR	
+First Potomac	FPO	
+First Trust/aberdeen	FEO	
+Firstenergy	FE	
+Firstfed	FED	
+Flagstar Bancorp	FBC	
+Flagstone Reinsuranc	FSR	
+Fleetwood Enterprise	FLE	
+Flotek Industries	FTK	
+Flowers Foods	FLO	
+Flowserve	FLS	
+Fluor	FLR	
+Fmc Technologies	FTI	
+Foot Locker	FL	
+Ford Motor	F	
+Ford Motor Credit Company Llc	FCJ	
+Ford Motor Credit Company Llc	FCZ	
+Forest City Ent	FCE.B	
+Forest City Ent	FCE.A	
+Forest Cty Ent Sr Nt	FCY	
+Forest Labs	FRX	
+Forest Oil	FST	
+Forestar Grp.	FOR	
+Fortress Investment Grp. Llc	FIG	
+Fortune	FO	
+Foundation Coal	FCL	
+Fpl Grp. Capital In	FGC	
+France Telecom	FTE	
+Franklin	BEN	
+Franklin Covey	FC	
+Franklin Universal	FT	
+Freddie Mac	FRE	
+Freeport Mcmoran	FCX	
+Fresenius	FMS	
+Fresh Del Monte Prod	FDP	
+Friedman Billings	FBR	
+Frontier Communications Corp	FTR	
+Frontier Oil	FTO	
+Frontline	FRO	
+Fti Consulting	FCN	
+Fuller H B	FUL	
+Furmanite Corp	FRM	
+Furniture Brands	FBN	
+G a T X	GMT	
+Gafisa S.a.	GFA	
+Gallagher Arthur J	AJG	
+Gamco	GBL	
+Gamestop	GME	
+Gammon Gold	GRS	
+Gannett	GCI	
+Gap	GPS	
+Gardner Denver	GDI	
+Gartner	IT	
+Gaylord Entertainment	GET	
+Ge Cap Pines	GEP	
+Gen Cable	BGC	
+Gen Dynamics	GD	
+Gen Electric	GE	
+Gen Mills	GIS	
+Gen Mtr Note	GOM	
+Genco Shipping Trading Ltd	GNK	
+Gencorp	GY	
+Genentech	DNA	
+General Elec Cap 6.1	GEC	
+General Electric Capital Corp.	GEJ	
+General Growth Properties	GGP	
+General Maritime	GMR	
+General Motors 7.25	XGM	
+General Motors 7.25nts	RGM	
+General Motors 7.375	HGM	
+General Motors 7.5	GMS	
+General Motors Corp	GRM	
+General Motors Cv Dbs A	GXM	
+General Motors Cv Dbs B	GBM	
+General Motors Deb C	GPM	
+General Motors Pines	GMA	
+General Steel Hldgs	GSI	
+Genesco	GCO	
+Genesee	GWR	
+Genesis Lease Limite	GLS	
+Genl Elec Cap Cp Nts	GED	
+Genl Elec Cap Pines	GEA	
+Genl Mtr Acc Nt 7.25	GKM	
+Genl Mtrs Cp Sr Nt	BGM	
+Genpact Limited	G	
+Genuine Parts	GPC	
+Genworth	GNW	
+Geo Grp.	GEO	
+Georgia Gulf	GGC	
+Georgia Power Co.	GAR	
+Georgia Power Co.	GAT	
+Georgia Power Pines T	GPW	
+Georgia Power Ser W	GPU	
+Georgia Power Ser X	GAH	
+Georgia Power Sr Nt O	GPD	
+Georgia Power Sr Nt R	GPJ	
+Gerber Scientific	GRB	
+Gerdau	GGB	
+Gerdau Ameristeel	GNA	
+Getty	GTY	
+Giant Interactiv Ads	GA	
+Gildan Activewear	GIL	
+Glamis Gold	GLG	
+Glatfelter	GLT	
+Glaxosmithkline	GSK	
+Glg Partners Cl U	GLG.U	
+Glg Partners Cl Un	GLG.UN	
+Glimcher	GRT	
+Global Cash	GCA	
+Global Partners Lp	GLP	
+Global Payments	GPN	
+Global Power	GEG	
+Global Ship Lease Ut	GSL.UN	
+Global Ship Lease Ut	GSL.U	
+Global Signal	GSL	
+Gm	GM	
+Gm 7.25 Quib	GMW	
+Gmac Sr 7.35 Sr Nts	GJM	
+Gold Fields	GFI	
+Goldcorp	GG	
+Gollinhas Aereas Inteligentes	GOL	
+Goodrich	GR	
+Goodrich Pet	GDP	
+Goodyear Tire Rubber	GT	
+Gov Bk Ireland	IRE	
+Gp Strategies	GPX	
+Graco	GGG	
+Graftech	GTI	
+Gramercy	GKK	
+Granite	GVA	
+Graphic Packaging	GPK	
+Gray Television	GTN.A	
+Gray Television	GTN	
+Great Atl & Pac 9.375	GAJ	
+Great Atlantic Pac	GAP	
+Great Northern Iron	GNI	
+Great Plains	GXP	
+Greatbatch	GB	
+Greenbrier	GBX	
+Greenhill	GHL	
+Greif	GEF.B	
+Greif	GEF	
+Griffon	GFF	
+Grp. Automotive	GPI	
+Grubb Ellis	GBE	
+Gruma De Cv	GMK	
+Grupo Aeroportuario	ASR	
+Grupo Casa Saba	SAB	
+Grupo Iusacell De Cv	CEL	
+Grupo Radio Centro	RC	
+Grupo Tmm A	TMM	
+Gs	GS	
+Gs Connect Sp Gsci Enhanced Commodity	GSC	
+Gsc Investment Corp	GNV	
+Guangshen Rail	GSH	
+Guaranty Fin Grp.	GFG	
+Guess	GES	
+Gulf Power 5.875 Snr	GUQ	
+Gulf Power Ser H	GUL	
+Gulf Power Sr Nts	GUI	
+Gulfmark Offshore Inc.	GLF	
+Gushan Env Egy Ads	GU	
+H R Block	HRB	
+Haemonetics	HAE	
+Halliburton	HAL	
+Hanesbrands	HBI	
+Hanger Orthopedic	HGR	
+Hanover	THG	
+Harley-davidson	HOG	
+Harman	HAR	
+Harmony Gold Mining	HMY	
+Harris	HRS	
+Harry Winston Diamond Corp	HWD	
+Harsco	HSC	
+Harte Hanks	HHS	
+Hartford	HIG	
+Harvest Energy	HTE	
+Harvest Natural	HNR	
+Hasbro	HAS	
+Hatteras Finl Cprp	HTS	
+Haverty Furn	HVT.A	
+Haverty Furn	HVT	
+Hawaiian Electric	HE	
+Hcc Insurance	HCC	
+Hd	HD	
+Hdfc Bank	HDB	
+Headwaters	HW	
+Health Care Property Investors	HCP	
+Health Care Reit	HCN	
+Health Management	HMA	
+Health Net	HNT	
+Healthcare Realty	HR	
+Healthsouth Corp.	HLS	
+Healthspring	HS	
+Hearst Argyle Tv	HTV	
+Heartland Payment	HPY	
+Heckmann Corp Uts	HEK.UN	
+Heckmann Corp Uts	HEK.U	
+Heckmann Corp.	HEK	
+Hecla Mining	HL	
+Heico	HEI	
+Heico	HEI.A	
+Heinz H J	HNZ	
+Helix Energy Solutions Grp.	HLX	
+Hellenic Telecommunications	OTE	
+Helmerich Payne	HP	
+Herbalife	HLF	
+Hersha Hospitality Trust	HT	
+Hershey	HSY	
+Hertz Global Holdings	HTZ	
+Hewitt Assoc A	HEW	
+Hewlett Packard	HPQ	
+Hexcel Cp Delaware	HXL	
+Hff	HF	
+Hhgregg	HGG	
+Highland Distressed Opportunities	HCD	
+Highwoods	HIW	
+Hill International	HIL	
+Hill-rom Holdings Inc.	HRC	
+Hillenbrand	HI	
+Hilltop Holdings Inc.	HTH	
+Hitachi	HIT	
+Hni	HNI	
+Holly	HOC	
+Holly Energy Partner	HEP	
+Home Properties	HME	
+Honda Motor	HMC	
+Honeywell	HON	
+Horace Mann Educator	HMN	
+Horizon Lines	HRZ	
+Hormel Foods	HRL	
+Hornbeck	HOS	
+Hospira	HSP	
+Hospitality Properties	HPT	
+Host Marriott Financial Trust	HST	
+Hovnanian Ent	HOV	
+Hq Life Sciences	HQL	
+Hrpt Properties	HRP	
+Hsbc	HBC	
+Hsbc 6.0 Nt	HTN	
+Hsbc 6.875	HTB	
+Hsbc Holdings	HCS	
+Huaneng Power	HNP	
+Hubbell A	HUB.A	
+Hubbell B	HUB.B	
+Hugoton Royalty	HGT	
+Humana	HUM	
+Huntsman	HUN	
+Hutchison Telecom	HTX	
+Hypercom	HYC	
+I D T	IDT.C	
+I R S Inversion Y	IRS	
+I T T Education	ESI	
+Iamgold	IAG	
+Ibm	IBM	
+Icahn Enterprises L P	IEP	
+Icici Bank	IBN	
+Idacorp	IDA	
+Idex	IEX	
+Idt	IDT	
+Ihs	IHS	
+Imation	IMN	
+Ims Health	RX	
+Independence	IHC	
+Indiana Michigan Power	IJD	
+Industrial Distribution	IDG	
+Industrios Bachoco	IBA	
+Infineon	IFX	
+Ing	ING	
+Ing As Pac Hi Div Eq	IAE	
+Ing Groep N.v.	ISF	
+Ing Groep N.v.	IGK	
+Ing Groep Perp Debt	IND	
+Ing Groep Perp Debt	INZ	
+Ing Groep Perp Debt	ISP	
+Ing Intl Hi Div Eq	IID	
+Ing Perp Secs	ISG	
+Ingersoll Rand A	IR	
+Ingram Micro A	IM	
+Inland Real Estate	IRC	
+Input Output	IO	
+Integrys Energy Grp.	TEG	
+Interactive Data	IDC	
+Intercntntlexchange	ICE	
+Intercontinental Hotels	IHG	
+Interline	IBI	
+Intermec	IN	
+Internat Game	IGT	
+International Coal G	ICO	
+International Flavors & Fragranc	IFF	
+International Paper	IP	
+International Rectifier	IRF	
+International Shipholding	ISH	
+Interoil Corp.	IOC	
+Interpublic	IPG	
+Interstate Hotels	IHR	
+Intertape Polymer	ITP	
+Intl Fin Sp Mitts	IFK	
+Invacare	IVC	
+Inverness Medical Innovations	IMA	
+Invesco Ltd	IVZ	
+Investment Technology	ITG	
+Inx Nts Sp Bric 40	BTG	
+Iowa Telecom	IWA	
+Ipath Dj Aigcitr Etn	DJP	
+Ipath Dj-aig Cocoa	NIB	
+Ipath Eur/usd Exchan	ERO	
+Ipath Gbp/usd Exchan	GBB	
+Ipath Gsci Tri Etn	GSP	
+Ipath Jpy/usd Exchan	JYN	
+Iron Mountain	IRM	
+Irwin Financial	IFC	
+Istar	SFI	
+Itc	ITC	
+Itt	ITT	
+Itw	ITW	
+Ivanhoe Mines	IVN	
+J Crew Grp.	JCG	
+Jabil	JBL	
+Jackson Hewitt Tax	JTX	
+Jacobs Engineering	JEC	
+Jaguar Mining	JAG	
+James Hardie	JHX	
+Janus	JNS	
+Jarden	JAH	
+Jc Penney	JCP	
+Jefferies	JEF	
+Jer Trust	JRT	
+Jmp Grp.	JMP	
+Jo Ann Stores	JAS	
+John Bean Tech Corp	JBT	
+John Hancock Tax Adv	HTY	
+John Wiley Sons	JW.A	
+John Wiley Sons	JW.B	
+Johnson & Johnson	JNJ	
+Johnson Controls	JCI	
+Jones Apparel	JNY	
+Jones Lang Lasalle	JLL	
+Journal Comm	JRN	
+Jp Morgan Chase	JPM	
+K Sea	KSP	
+K V Pharma	KV.A	
+K V Pharma	KV.B	
+K12	LRN	
+Kadant	KAI	
+Kansas City Southern	KSU	
+Kaydon	KDN	
+Kayne Anderson	KYN	
+Kayne Anderson Energy Development	KED	
+Kb Home	KBH	
+Kbr	KBR	
+Kbw	KBW	
+Keithley	KEI	
+Kellogg	K	
+Kennametal	KMT	
+Kenneth Cole Prod In	KCP	
+Key Energy Services	KEG	
+Keycorp	KEY	
+Khd Humboldt Wedag International	KHD	
+Kilroy	KRC	
+Kimberly Clark	KMB	
+Kimco	KIM	
+Kinder Morgan Energy	KMP	
+Kinder Morgan Management	KMR	
+Kindred Healthcare	KND	
+Kinetic Concepts	KCI	
+King	KG	
+Kingsway	KFS	
+Kinross Gold	KGC	
+Kirby	KEX	
+Kite	KRG	
+Kkr Financial	KFN	
+Knight Transport	KNX	
+Knoll	KNL	
+Kohls	KSS	
+Konami	KNM	
+Kookmin Bank	KB	
+Koppers	KOP	
+Korea Electric	KEP	
+Korn Ferry	KFY	
+Kraft	KFT	
+Krispy Kreme Doughnuts	KKD	
+Kroger	KR	
+Kronos Worldwide	KRO	
+Kt	KTC	
+Kubota	KUB	
+Kyocera	KYO	
+L L E Royal Tr Ubi	LRT	
+L-1 Identity Solutions (holding Company)	ID	
+L3 Comm	LLL	
+La Z Boy	LZB	
+Lab Corp	LH	
+Labranche	LAB	
+Laclede	LG	
+Lan Airlines	LFL	
+Landaur	LDR	
+Landrys Restaurants	LNY	
+Las Vegas Sands	LVS	
+Lasalle	LHO	
+Lazard	LAZ	
+Ldk Solar Co Adr	LDK	
+Leapfrog	LF	
+Lear	LEA	
+Lee Enterprises	LEE	
+Legg	LM	
+Legg Mason Inc.	LMI	
+Leggett Platt	LEG	
+Lehman Abs 7.375 S-c	CLH	
+Lehman Abs Boeing	XVG	
+Lehman Abs Boeing A1	JZL	
+Lehman Abs Gm	CYP	
+Lehman Abs Jpm Tr I	CGV	
+Lehman Abs Keycp B	CCS	
+Lehman Abs Kraft	JZT	
+Lehman Abs Ryder 23	CVI	
+Lehman Abs South Cap	CCT	
+Lehman Abs Sprint A1	JZK	
+Lehman Abs Wa Mut 22	CRH	
+Lehman Abs at & T	JZJ	
+Lender Processing	LPS	
+Lennar	LEN.B	
+Lennar	LEN	
+Lennox	LII	
+Leucadia	LUK	
+Leveraged Index Return Notes Linked	RLO	
+Lexington	LXP	
+Lexmark	LXK	
+Lg Display Co Ltd	LPL	
+Libby	LBY	
+Liberty Properties	LRY	
+Life Sciences Research	LSR	
+Life Time Fitness	LTM	
+Lilly Eli	LLY	
+Limited Brands	LTD	
+Lin Tv	TVL	
+Lincoln National	LNC	
+Lindsay Manufacturing	LNN	
+Lions Gate Entertainment	LGF	
+Lithia Motors	LAD	
+Live Nation	LYV	
+Liz Claiborne	LIZ	
+Lloyds Tsb	LYG	
+Lockheed Martin	LMT	
+Loews Corporation	L	
+Longtop Finl Tec Ads	LFT	
+Lorillard	LO	
+Louisiana-pacific Corp.	LPX	
+Lowes Companies	LOW	
+Lsb Industries Inc.	LXU	
+Lsi	LSI	
+Ltc Properties	LTC	
+Lubrizol	LZ	
+Luby S	LUB	
+Lumber Liquidators	LL	
+Lundin Mining Corp	LMC	
+Luxottica	LUX	
+Lydall	LDL	
+M & F	MFW	
+M & T	MTB	
+M D C	MDC	
+M F S Spec Val	MFV	
+M G M Mirage	MGM	
+M I Homes	MHO	
+Mac Gray	TUC	
+Macerich	MAC	
+Mack Cali	CLI	
+Macquarie Infrastructure	MIC	
+Macys	M	
+Madeco	MAD	
+Magellan Midstream	MGG	
+Magellan Midstream	MMP	
+Magna	MGA	
+Magnetek	MAG	
+Maguire Properties	MPG	
+Magyar Telekom	MTA	
+Mahanagar	MTE	
+Maidenform	MFB	
+Malaysia Fund	MF	
+Manitowoc	MTW	
+Manpower	MAN	
+Manulife	MFC	
+Marathon Oil	MRO	
+Marcus	MCS	
+Marine Products	MPX	
+Marinemax	HZO	
+Mariner Energy Inc.	ME	
+Markel	MKL	
+Markel Corp (holding Co)	MKV	
+Market Vectors Etf	KWT	
+Markwest Energy Partners L.p.	MWE	
+Marriot	MAR	
+Marsh Mclennan	MMC	
+Marshall & Ilsley	MI	
+Martha Stewart	MSO	
+Martin Health	MD	
+Martin Marietta	MLM	
+Marvel Enterprises	MVL	
+Masco	MAS	
+Massey	MEE	
+Massmutual	MCI	
+Massmutual	MPV	
+Mastec	MTZ	
+Mastercard	MA	
+Material Sciences	MSC	
+Mattel	MAT	
+Maui Land Pineapple Co. Inc.	MLP	
+Maximus	MMS	
+Mbia	MBI	
+Mcafee	MFE	
+Mcclatchy	MNI	
+Mccormick	MKC	
+Mccormick	MKC.V	
+Mcdermott	MDR	
+Mcdonalds	MCD	
+Mcgraw Hill	MHP	
+Mckesson	MCK	
+Mcmoran	MMR	
+Mds	MDZ	
+Meadowbrook	MIG	
+Meadwestvaco	MWV	
+Mechel Oao	MTL	
+Medco	MHS	
+Media General	MEG	
+Medical Properties	MPW	
+Medicis	MRX	
+Medifast	MED	
+Medtronic	MDT	
+Meerrill Lynch	EFS	
+Meerrill Lynch	SXF	
+Memc Electronic	WFR	
+Mens Wearhouse	MW	
+Mentor	MNT	
+Mer Msci Eafe Arns	MWL	
+Merck	MRK	
+Mercury General	MCY	
+Meredith	MDP	
+Meridian	TMR	
+Meritage Homes	MTH	
+Merrill Cat Strides	STF	
+Merrill Djia Arns	DMY	
+Merrill Factor Model	MXH	
+Merrill Lynch	AQS	
+Merrill Lynch	SOM	
+Merrill Lynch	SJO	
+Merrill Lynch	RXY	
+Merrill Lynch	AXT	
+Merrill Lynch	BYG	
+Merrill Lynch	CUL	
+Merrill Lynch	DEV	
+Merrill Lynch	SAR	
+Merrill Lynch	SQD	
+Merrill Lynch	CAK	
+Merrill Lynch	BSB	
+Merrill Lynch Acc Nt	MAO	
+Merrill Lynch Amex	HSJ	
+Merrill Lynch Djia	DGK	
+Merrill Lynch Hd Str	HRO	
+Merrill Lynch Phlx	XUF	
+Merrill Lynch Rus 2k	RER	
+Merrill Lynch Sp500	NMQ	
+Merrill Lynch Step	AXD	
+Merrill Lynch Stride	BXT	
+Merrill Lynch Struct	MNL	
+Merrill Lynch Struct	MVI	
+Merrill Sp500 Stars	SIT	
+Merrill Xom Strides	MIX	
+Mesa Royalty	MTR	
+Mesabi Trust Ctf Bi	MSB	
+Met Pro	MPR	
+Metavante Tech	MV	
+Methode Electronics Inc.	MEI	
+Metlife	MET	
+Metlife 5.875 Sr Nt	MLG	
+Metlife Unit	MEU	
+Metris	MXT	
+Metrogas	MGS	
+Mettler Toledo	MTD	
+Mfa Mortgage	MFA	
+Mgic Investments	MTG	
+Mi Developments	MIM	
+Micron	MU	
+Mid America Apartment	MAA	
+Midas	MDS	
+Midcap Spdrs	MDY	
+Midway Games	MWY	
+Miller Industries	MLR	
+Millipore	MIL	
+Mindray Medical International Ltd	MR	
+Mine Safety Appl	MSA	
+Mineral	MTX	
+Mirant	MIR	
+Miss Power Sr Nt Ser E	MPJ	
+Mitsubishi Ufj	MTU	
+Mittal Steel	MT	
+Mizuho Financial Grp.	MFG	
+Ml 50/150 Nikkei 225	NKW	
+Ml Aapl Strides	AVN	
+Ml Acc Rtn Nts Phlx	GZV	
+Ml Bm Russell 3000	BJW	
+Ml Br Mkt St Acc Red	SMM	
+Ml Dep 8 Afc	PKM	
+Ml Dep 8 Qws	PJA	
+Ml Dep Far-1	PJS	
+Ml Dep Pplus Gsg A	PJI	
+Ml Djia Mitts 7/09	MKO	
+Ml Nikkei 225 Mitts	NKS	
+Ml Nikkei225 Mitts09	MNK	
+Ml Pp Gbl Cur Bskt	GBO	
+Ml Pplus Ser Dcna-1	PYO	
+Ml Pplus Ser Jpm-1	PYV	
+Ml Russell2000 Mitts	RRM	
+Ml Slct 10 St Rtn Nt	MSS	
+Ml Sp 500 Mitts	MKP	
+Ml Sp 500 Mitts	MLW	
+Ml Sp 500 Mitts	MCP	
+Ml Stars Dj Euro	DJL	
+Ml Stg Rtn Nt I15 Ix	LDB	
+Ml Strat Rtn Nts Sp	BXA	
+Ml Strategic Ind 15	SRK	
+Ml Strt Nts Ml Facto	HFB	
+Ml Strtgc Rt Nts Sui	UUD	
+Ml Val Sel 30 Srn	MLV	
+Mld Embarq Pplus Ctc	FJA	
+Mld Pplus Cl a Ctc	PYY	
+Mld Pplus Cl a Ctc	PZB	
+Mlp Strategic Eq	MTP	
+Mobile Telsys Ojsc	MBT	
+Modine Manufacturing	MOD	
+Mohawk	MHK	
+Molina Healthcare	MOH	
+Molson	TAP	
+Molson Coors	TAP.A	
+Monaco Coach	MNC	
+Moneygram	MGI	
+Monsanto	MON	
+Monster Worldwide	MWW	
+Montanta Dakota	MDU	
+Montpelier	MRH	
+Moodys	MCO	
+Moog	MOG.A	
+Moog	MOG.B	
+Morgan Stan Bridges	DFB	
+Morgan Stanley	MS	
+Morgan Stanley	ABH	
+Morgan Stanley	URR	
+Morgan Stanley	FFD	
+Morgan Stanley	ANG	
+Morgan Stanley Ca Quality Mun	IQC	
+Morgan Stanley Dw St Saturn Dpl	MJT	
+Morgan Stanley Dw Str Sat Att	MJN	
+Morgan Stanley Dw Str Saturn Bac	MJH	
+Morgan Stanley Emdd	EDD	
+Morgan Stanley Notes	GIT	
+Morgan Stanley S & P500 Idx Elk	BGS	
+Morgan Stanley Sac Saturns	HJO	
+Morgan Stanley Saturns 2002-14	DKC	
+Morgan Stanley Saturns 2002-15	DKF	
+Morgan Stanley Saturns Altria	DKT	
+Morgan Stanley Str Csfb	DKY	
+Morgan Stanley Str Daimlerchrysl	DKX	
+Morgan Stanley Str Saturns Dow	DKM	
+Morgan Stanley Str Saturns Gs	HJG	
+Morgan Stanley Str Saturns Hertz	HJA	
+Morgan Stanley Str Saturns Veriz	HJE	
+Morgan Stanley Strctd Saturns Gs	HJJ	
+Morgan Stanley Strs	MBS	
+Morgan Stanley Structd Saturn Gs	HJL	
+Morgan Stanley Structured Asset	DKW	
+Mortons Restaurant	MRT	
+Mosaic	MOS	
+Motorola	MOT	
+Movado	MOV	
+Mps	MPS	
+Mps - Ms Tech Index	MHT	
+Mps Link to Djia	DMJ	
+Mps Russell 2000 Idx	MSU	
+Mrgn Stnly Star Cboe	MBJ	
+Ms 3 Idx Cpns	MIB	
+Ms Ase China Idx Cpn	CAX	
+Ms Bridges 15 Finl	MBK	
+Ms Bridges Djia	BGD	
+Ms Bridges Oil Ind	BOI	
+Ms Cptl Sp 500	SDM	
+Ms Dw Biotech Boxes	BXB	
+Ms Dw Bridges Sp400	MCB	
+Ms Dw Bridges Ten	TPS	
+Ms Dw Pharma Boxes	RXB	
+Ms Gbl Bkt Idx Cpns	GBI	
+Ms Glb Bsk Idx Cpn	GBC	
+Ms Plus Nikkei 225	JPK	
+Ms Propels Sp 500	PEL	
+Ms Propels Value	EBK	
+Ms Prot Perf Dow Jns	PDJ	
+Ms Sel10 Idx Srns	SZX	
+Ms Sp 500 Idx Cpn	NPS	
+Ms Sp500 Parbns	SVG	
+Ms Strat Ttl Rtn Sec	DBZ	
+Ms Structured Asset	HJT	
+Ms Tg Stg Trs	BWN	
+Ms Ti Strat Ttl Rtn	DBY	
+Msc Industrial Drct	MSM	
+Msci	MXB	
+Msdw Saturn 8 A	MJV	
+Msdw Saturns	MKS	
+Msdw Saturns Verizon	MKE	
+Msdw Structured Prod	IIL	
+Mssac Br Saturns	HJR	
+Mssac Cl a Jcp Uts	HJV	
+Mueller	MLI	
+Mueller Water Products	MWA	
+Mueller Wtr Prods	MWA.B	
+Murphy Oil	MUR	
+Mv Oil Trust	MVO	
+Mvc Capital	MVC	
+Myers	MYE	
+N B T Y	NTY	
+N J Resources	NJR	
+N L	NL	
+N Y Times	NYT	
+Nabors	NBR	
+Nacco	NC	
+Nalco	NLC	
+Nam Tai Electronics	NTE	
+Nashua	NSH	
+Natco	NTG	
+National Bank of Greece	NBG	
+National Financial Partners	NFP	
+National Fuel Gas	NFG	
+National Grid	NGG	
+National Health Investors	NHI	
+National Oil	NOV	
+National Presto	NPK	
+National Rural	NRU	
+National Semiconductor Corporati	NSM	
+Nationwide Health	NHP	
+Natl Rural Ut Sub Nt	NRC	
+Natl Rural Util 6.75	NRN	
+Natural Gas Services Grp.	NGS	
+Natural Resource Partners	NRP	
+Natuzzi Spa	NTZ	
+Nautilus	NLS	
+Navigant	NCI	
+Navios Maritime	NM	
+Navios Maritime Acq	NNA	
+Navios Maritime Ptn	NMM	
+Navios Maritime Unit	NNA.U	
+Navios Maritime Unit	NNA.UN	
+Navistar	NAV	
+Nci Building	NCS	
+Ncr	NCR	
+Neenah Paper	NP	
+Nelnet	NNI	
+Netezza Corp.	NZ	
+Netsuite	N	
+Network Equip	NWK	
+Neustar	NSR	
+New D & B	DNB	
+New Oriental Education Technology	EDU	
+New York & Company	NWY	
+New York Community Bancorp Inc.	NYB	
+Newalliance Bancshar	NAL	
+Newcastle	NCT	
+Newell Rubbermaid	NWL	
+Newfield Exp Com	NFX	
+Newmarket	NEU	
+Newmont	NEM	
+Newpark	NR	
+Nexen	NXY	
+Nicholas-applegate	NGZ	
+Nicor	GAS	
+Nidec	NJ	
+Nike	NKE	
+Nippon Telephone	NTT	
+Nisource	NI	
+Noah Education Ads	NED	
+Noble	NE	
+Noble	NBL	
+Nokia	NOK	
+Nomura	NMR	
+Nordic American Tanker Shipping	NAT	
+Nordstrom	JWN	
+Norfolk	NSC	
+Nortel	NTL	
+North American Energ	NOA	
+North European Oil	NRT	
+Northeast Util	NU	
+Northrop Grumman	NOC	
+Northstar	NRF	
+Northwest Natural Gas	NWN	
+Northwestern Corp.	NWE	
+Nova Chemicals	NCX	
+Novartis	NVS	
+Novo Nordisk a S	NVO	
+Nrg Energy	NRG	
+Nstar	NST	
+Ntt Docomo	DCM	
+Nu Skin Ent	NUS	
+Nucor	NUE	
+Nustar Energy L.p.	NS	
+Nuveen Ca Select	NXC	
+Nuveen Cor Eq Alpha	JCE	
+Nuveen Mi Prem	NMP	
+Nuveen Mul-cur St Gv	JGT	
+Nuveen Muni Val Fd2	NUW	
+Nuveen Municipal Hi	NMD	
+Nuveen Ny Select	NXN	
+Nuveen Tax Free Iii	NXR	
+Nuveen Tx Adv Div Gr	JTD	
+Nv Energy Inc.	NVE	
+Nvr Inc.	NVR	
+Nymagic	NYM	
+Nyse Group	NYX	
+Occidental Pet	OXY	
+Oceaneering	OII	
+Ocwen	OCN	
+Odyssey	ORH	
+Office Depot	ODP	
+Officemax	OMX	
+Offshore Logistic	BRS	
+Oge	OGE	
+Oil Dri	ODC	
+Oil States	OIS	
+Ojsc Rostelecom	ROS	
+Old National Bancorp	ONB	
+Old Republic	ORI	
+Olin	OLN	
+Om	OMG	
+Omega Healthcare	OHI	
+Omega Protein	OME	
+Omnicare	OCR	
+Omnicom	OMC	
+Omnova	OMN	
+One Liberty Properties Inc.	OLP	
+Onebeacon Ins Grp	OB	
+Oneok	OKE	
+Oneok Partners Lp	OKS	
+Oppenheimer A	OPY	
+Orbital Sciences	ORB	
+Orbitz Worldwide	OWW	
+Orient Express	OEH	
+Oriental	OFG	
+Orix	IX	
+Ormat	ORA	
+Osg America L.p.	OSP	
+Oshkosh Truck	OSK	
+Overseas Shiphdlg	OSG	
+Owens Corning (new)	OC	
+Owens Illinois	OI	
+Owens and Minor	OMI	
+Oxford	OXM	
+P M I	PMI	
+P P G	PPG	
+P a R	PTC	
+Pacific Airport	PAC	
+Packaging America	PKG	
+Pactiv	PTV	
+Pall	PLL	
+Panhandle Oil Gas	PHX	
+Park Electrochemical	PKE	
+Parker Drilling	PKD	
+Parker Hannifin	PH	
+Parkway	PKY	
+Partnerre	PRE	
+Patni Computer	PTI	
+Patriot Coal Corp	PCX	
+Payless Shoesource	PSS	
+Peabody	BTU	
+Pearson	PSO	
+Pengrowth Energy Trust	PGH	
+Penn Real Estate	PEI	
+Penn Virginia	PVA	
+Penn Virginia Gp Holdings Lp	PVG	
+Penn Virginia Res	PVR	
+Penn West Energy Trust	PWE	
+Penske Automotive Grp.	PAG	
+Pentair	PNR	
+Pep Boys Man Moe	PBY	
+Pepco	POM	
+Pepsiamericas	PAS	
+Pepsico	PEP	
+Perdigao	PDA	
+Perini	PCR	
+Perkin Elmer	PKI	
+Permian Basin Roy	PBT	
+Perot	PER	
+Perusahaan Satlt	IIT	
+Pespi	PBG	
+Petro Canada	PCZ	
+Petrobras Energia	PZE	
+Petrochina	PTR	
+Petrohawk Energy Corp	HK	
+Petroleo Brasil	PBR.A	
+Petroleo Brasileiro	PBR	
+Petroquest Energy	PQ	
+Pfizer	PFE	
+Pg & E	PCG	
+Pharmacutical	PRX	
+Pharmerica Corp	PMC	
+Phh	PHH	
+Philip Morris Intl	PM	
+Philippine Lg Ds	PHI	
+Philips Electronics	PHG	
+Phillips Van Heusen	PVH	
+Phoenix	PNX	
+Phoenix Cos 7.45quib	PFX	
+Piedmont Nat Gas	PNY	
+Pier One	PIR	
+Pike Electric	PEC	
+Pinnacle Entertainmt	PNK	
+Pinnacle West Cap	PNW	
+Pioneer Natural Res	PXD	
+Pioneer Sthwst Energ	PSE	
+Piper Jaffray	PJC	
+Pitney Bowes	PBI	
+Plains All American Pipeline	PAA	
+Plains Exploration	PXP	
+Plantronics	PLT	
+Platinum Underwritrs	PTP	
+Playboy Ent	PLA.A	
+Playboy Ent	PLA	
+Plum Creek	PCL	
+Plus Based on Djia	DCV	
+Plus Based on the Sp 500 Index	SUO	
+Plus Bsd on Sp500	RLL	
+Pnc	PNC	
+Pnm Res	PNM	
+Polaris	PII	
+Polyone	POL	
+Polypore Internation	PPO	
+Portland General Electric Co.	POR	
+Portugal Telecm Sgps	PT	
+Posco	PKX	
+Post Properties	PPS	
+Potash Cp Saskatchew	POT	
+Potlatch	PCH	
+Ppl	PPL	
+Ppl Energy Supply Llc	PLS	
+Pplus Lmg-4	PYL	
+Pplus Ser Gsc Ctf	PYK	
+Pplus Ser Rrd	PYS	
+Praxair	PX	
+Pre Paid Legal	PPD	
+Precision Castparts	PCP	
+Precision Drill Trst	PDS	
+Preferred Plus Gec-1	PJT	
+Preferredplus Upc	PJR	
+Premiere Global	PGI	
+Prestige Brand Hlgs	PBH	
+Pride	PDE	
+Primedia	PRM	
+Primus	PRS	
+Primus Guaranty Ltd	PRD	
+Principal Finanical	PFG	
+Proassurance	PRA	
+Procter Gamble	PG	
+Progress	PGN	
+Progressive	PGR	
+Prologis	PLD	
+Pros Holdings	PRO	
+Protected Ab Rtn Sp	BNP	
+Protected Ab Sp500	SOU	
+Protected Absolute	SDG	
+Protected Absolute Return Barrier	SLZ	
+Protected Absolute Return Barrier	AMK	
+Protective Life	PL	
+Provident Energy	PVX	
+Provident Financial	PFS	
+Prudential	PRU	
+Prudential	PUK	
+Prudential Financial Inc.	PFK	
+Prudential Financial Inc.	PHR	
+Ps Business Parks	PSB	
+Pt Telekomunikasi In	TLK	
+Pub Entrpr	PEG	
+Public Stg	PSA.A	
+Public Storage	PSA	
+Public Svc Okla Nt B	POH	
+Puget	PSD	
+Pulte Homes	PHM	
+Pulte Homes Inc.	PHA	
+Pzena Inv Mgmt Cl A	PZN	
+Qiao Xing Mobile Com	QXM	
+Qimonda Ag Ads	QI	
+Quaker	KWR	
+Quanex	NX	
+Quanta Services	PWR	
+Quantum Corp.	QTM	
+Quest Diagnostics	DGX	
+Questar	STR	
+Quicksilver	KWK	
+Quicksilver Gas	KGS	
+Quiksilver	ZQK	
+Qwest	Q	
+R L I	RLI	
+R P C	RES	
+Rackspace Hosting	RAX	
+Radian	RDN	
+Radioshack	RSH	
+Rait Investment Trus	RAS	
+Ralcorp	RAH	
+Ralph Lauren Polo	RL	
+Ramco Gershenson	RPT	
+Range Res	RRC	
+Raser Technologies Inc.	RZ	
+Raymond James	RJF	
+Rayonier Reit	RYN	
+Raytheon	RTN	
+Rbc	RY	
+Realty Income	O	
+Red Lion	RLH	
+Reddy Ice	FRZ	
+Redwood	RWT	
+Reed Elsevier	RUK	
+Reed Elsevier	ENL	
+Regal Beloite	RBC	
+Regal Entertainment	RGC	
+Regency Centers	REG	
+Regions	RF	
+Regis	RGS	
+Rehabcare	RHB	
+Reinsurance Group America	RGA	
+Reliance Steel	RS	
+Reliant	RRI	
+Renaissancere	RNR	
+Renal Care	RCI	
+Repsol Ypf	REP	
+Republic	RSG	
+Resmed	RMD	
+Resource Capital	RSO	
+Retail Ventures	RVI	
+Revlon	REV	
+Rex Stores	RSC	
+Reynolds	RAI	
+Right Consultants	RHT	
+Rio Tinto	RTP	
+Riskmetrics Grp.	RMG	
+Ritchie Bros Auction	RBA	
+Rite Aid	RAD	
+Robbins & Myers	RBN	
+Robert Half	RHI	
+Rock-tenn	RKT	
+Rockwell Automation	ROK	
+Rockwell Collins	COL	
+Rockwood	ROC	
+Rogers	ROG	
+Rohm Haas	ROH	
+Rollins	ROL	
+Roper Indust	ROP	
+Rowan	RDC	
+Royal Bank of Scotland Grp.	RBS	
+Royal Caribbean Cr	RCL	
+Royal Dutch Shell	RDS.B	
+Royce Micro-cap	HYA	
+Rpm	RPM	
+Rr Donnelley	RRD	
+Rsc Holdings	RRR	
+Rti Metals	RTI	
+Ruddick	RDK	
+Russ Berrie	RUS	
+Ryder System	R	
+Ryerson Tull In	RT	
+Ryl Dtch Shl	RDS.A	
+Ryland	RYL	
+S J W	SJW	
+S P X	SPW	
+Sabine Rylty Tr Ubi	SBR	
+Sadia	SDA	
+Safe Bulkers	SB	
+Safeguard Scientific	SFE	
+Safeway	SWY	
+Saga Comm	SGA	
+Saic	SAI	
+Saks	SKS	
+Salesforce	CRM	
+Sally Beauty Holdings	SBH	
+San Juan Basin Royal	SJT	
+Sandridge Energy	SD	
+Sanofi-aventis	SNY	
+Santander	SBP	
+Sap Aktiengesell	SAP	
+Sappi	SPP	
+Sara Lee	SLE	
+Sasol	SSL	
+Satyam	SAY	
+Sauer-danfoss	SHS	
+Saul Centers	BFS	
+Scana	SCG	
+Schawk	SGK	
+Schering Aktiengesel	SHR	
+Schering Plough	SGP	
+Schiff Nutrit	WNI	
+Schlumberger	SLB	
+Schweitzer Maudit	SWM	
+Scientific Atlanta	SFA	
+Scottish Power	SPI	
+Scottish Re	SCT	
+Scotts Miracle Grow	SMG	
+Scpie	SKP	
+Scripps	SSP	
+Scripps Networks Int	SNI	
+Seabright Insurance Holdings	SBX	
+Seacor	CKH	
+Sealed Air	SEE	
+Sealy	ZZ	
+Seaspan	SSW	
+Select Utility Index	UUY	
+Selective Insurance Grp.	SGZ	
+Seligman Lasalle Ire	SLS	
+Semiconductor Manufacturing	SMI	
+Sempra	SRE	
+Senior Hsg Sbi	SNH	
+Sensient	SXT	
+Service	SCI	
+Sfi Strats Sr 2005-6	GJP	
+Sfis 2006-3 Strats	GJT	
+Shaw	SGR	
+Shaw Comm	SJR	
+Sherwin Williams	SHW	
+Shinhan	SHG	
+Ship Finance	SFL	
+Siemens	SI	
+Signet	SIG	
+Silver Wheaton Corp	SLW	
+Silverline Tech 1:10	SLT	
+Simcere Pharma Ads	SCR	
+Simon	SPG	
+Simpson Manufacturing	SSD	
+Sims Metal Management Ltd	SMS	
+Sinopec Shanghai	SHI	
+Six Flags	SIX	
+Sjm	STJ	
+Skechers Usa	SKX	
+Skilled Healthcare	SKH	
+Skyline	SKY	
+Sl Green	SLG	
+Slm	SLM	
+Slm Corp.	ISM	
+Slm Cpi Lkd Nt	OSM	
+Slm Sr Nt	JSM	
+Smith	SII	
+Smith & Nephew	SNN	
+Smith a O	AOS	
+Smithfield	SFD	
+Smuckers J M	SJM	
+Snap On	SNA	
+Sociedad De Chile	SQM	
+Sola	SOL	
+Sonic Automotive	SAH	
+Sonoco	SON	
+Sony	SNE	
+Sothebys A	BID	
+South Jersey	SJI	
+Southern	SO	
+Southern Africa Fund	SOA	
+Southern Copper	PCU	
+Southern Union	SUG	
+Southwest Airlines	LUV	
+Southwest Gas	SWX	
+Southwestern Energy	SWN	
+Sovereign Bancorp	SOV	
+Sovran Storage	SSS	
+Spartech	SEH	
+Sparton	SPA	
+Spectra Energy Uts	SEP	
+Speedway Motorsports	TRK	
+Spherion	SFN	
+Spirit Aerosystems Holdings	SPR	
+Sprint Cp Uts	SDE	
+Sprint Nextel	S	
+Sprint Pcs	PCS	
+Spx Arn	SPD	
+Sra	SRX	
+St Joe	JOE	
+St Mary Land Expl	SM	
+Stancorp	SFG	
+Standard Motor Prod	SMP	
+Standard Pacific	SPF	
+Standard Regist	SR	
+Standex	SXI	
+Stanley	SXE	
+Stanley Works	SWK	
+Stantec	SXC	
+Star Gas	SGU	
+Star Gas	SGH	
+Starrett L S	SCX	
+Stars Linked to the Sp 500 Index	SZL	
+Stars Linked to the Sp 500 Index	SSM	
+Stars Linked to the Sp 500 Index	SXU	
+Stars Sp 500	SHJ	
+Startek	SRT	
+Starwood	HOT	
+State Stree	STT	
+Station Casinos	STN	
+Statoil Asa	STO	
+Steak N Shake	SNS	
+Steelcase	SCS	
+Steinway Musical	LVB	
+Step Incm - Qualcom	QKP	
+Step Income Securities Linked to	MZJ	
+Step Income Securities Linked to	FOA	
+Stepan	SCL	
+Steris	STE	
+Sterling Bancorp	STL	
+Stewart	SVC	
+Stewart Information Services	STC	
+Stifel	SF	
+Stillwater Mining	SWC	
+Stmicroelectronics	STM	
+Stock Mkt Up Nt Sp	SRU	
+Stock Mkt Upturn Sp	SVE	
+Stone Energy	SGY	
+Stoneridge	SRI	
+Stora Enso Oyj	SEO	
+Str Pd 8 Corts Aon A	KVW	
+Strategic Hotel Capital	SLH	
+Strategic Hotels Resorts Inc.	BEE	
+Strategic Ret Nts	MIF	
+Strategic Return Not	RSY	
+Strd Pdt 8 Corts Frd	KVU	
+Structured Pdts Ml	MFY	
+Structured Product	BEM	
+Structured Product M	RTS	
+Stryker	SYK	
+Student Loan	STU	
+Sturm Ruger	RGR	
+Suburban Propane	SPH	
+Sun Communities	SUI	
+Sun Life	SLF	
+Suncor	SU	
+Sunoco	SUN	
+Sunoco Logistics	SXL	
+Sunrise Senior Living	SRZ	
+Sunset Financial	SFO	
+Sunstone Hotel	SSI	
+Sunstone Hotel	SHO	
+Suntech Power	STP	
+Suntrust	STI	
+Superior Energy Sv	SPN	
+Superior Industries	SUP	
+Supervalu	SVU	
+Swedish Export Kredi	SBK	
+Swedish Stock Call Option Vost-s	HYL	
+Swift Energy	SFY	
+Sws	SWS	
+Sybase	SY	
+Symbol	SBL	
+Symmetry Medical	SMA	
+Syn Fxd Rate 04-10	GJL	
+Syngenta	SYT	
+Syniverse Hlgs	SVR	
+Synnex	SNX	
+Synovus	SNV	
+Synthetic Fixd-incm	GJS	
+Synthetic Fixed	GJB	
+Synthetic Fixed	GJK	
+Synthetic Fixed-inco	GJV	
+Synthetic Fx Str	GJR	
+Synthetic Fxd	GJI	
+Synthetic Fxd	GJJ	
+Sysco	SYY	
+Systemax	SYX	
+T C F Financial	TCB	
+T D K	TDK	
+T R C	TRR	
+Taiwan Semicond	TSM	
+Tal International	TAL	
+Talbots	TLB	
+Talisman	TLM	
+Tam	TAM	
+Tanger Factory Outlet	SKT	
+Target	TGT	
+Tata Motors	TTM	
+Taubman Centers	TCO	
+Technitrol	TNL	
+Teck Resources Ltd	TCK	
+Teco	TE	
+Teekay Lng	TGP	
+Teekay Shipping	TK	
+Teekay Tankers Cl A	TNK	
+Tejon Ranch	TRC	
+Tele Norte Lest	TNE	
+Telecom	SKM	
+Telecom Argentia	TEO	
+Telecom Italia	TI	
+Telecom Nz	NZT	
+Telecom Sao Paulo	TSP	
+Telecom Sav	TI.A	
+Teledyne	TDY	
+Teleflex	TFX	
+Telefonica	TEF	
+Telefonica Arg	TAR	
+Telefonos De Mex L	TMX	
+Telemig Celular	TMB	
+Telephone & Data	TDI	
+Telephone & Data 7.6	TDA	
+Telephone and Data Systems Cl S	TDS.S	
+Telephone and Data Systems Inc.	TDS	
+Telkom	TKG	
+Telmex Internacional	TII.A	
+Telus	TU	
+Telvisa	TV	
+Temple Inland	TIN	
+Tempur Pedic	TPX	
+Tenaris	TS	
+Tenet Hlthcre	THC	
+Tenn Val Power D 28	TVC	
+Tennant	TNC	
+Tenneco	TEN	
+Tennessee Power	TVE	
+Teppco Partners	TPP	
+Teradata Corp	TDC	
+Teradyne	TER	
+Terex	TEX	
+Ternium .	TX	
+Terra	TRA	
+Terra Nitrogen Company .	TNH	
+Tesoro	TSO	
+Tetra	TTI	
+Texas Industries	TXI	
+Texas Instruments	TXN	
+Texas Pacific Land	TPL	
+Textainer Grp. Hdg	TGH	
+Textron	TXT	
+Theragenics	TGX	
+Thermo Electron	TMO	
+Thomas Betts	TNB	
+Thomas Industries	TII	
+Thompson Creek Metals Co. Inc.	TC	
+Thomson	TMS	
+Thor	THO	
+Tidewater	TDW	
+Tiffany	TIF	
+Tim Hortons	THI	
+Tim Participacoes	TSU	
+Timberland A	TBL	
+Time Warner	TWX	
+Time Warner Cable	TWC	
+Timken	TKR	
+Titan	TWI	
+Titanium Metals	TIE	
+Tjx	TJX	
+Tns	TNS	
+Todd Shpyrds	TOD	
+Toll Brothers	TOL	
+Tomkins	TKS	
+Tongjitang Ch Md Adr	TCM	
+Too	TOO	
+Tootsie Roll	TR	
+Torch Energy	TRU	
+Torchmark	TMK	
+Toro	TTC	
+Toronto Dominion	TD	
+Tortoise	TYY	
+Tortoise Capital Resource Corp	TTO	
+Tortoise North American Energy	TYN	
+Total S.a	TOT	
+Total Systems	TSS	
+Toyota	TM	
+Transalta	TAC	
+Transatlantic	TRH	
+Transcanada	TRP	
+Transcontinental Realty Investor	TCI	
+Transdigm	TDG	
+Transmontaigne Partners L.p.	TLP	
+Transocean	RIG	
+Transportadora	TGS	
+Travelers Companies (the)	TRV	
+Tredegar	TG	
+Treehouse	THS	
+Trex	TWP	
+Tri Contl	TY	
+Triad Hospitals	TRI	
+Trimas Corp.	TRS	
+Trina Solar Ltd Adr	TSL	
+Trinity Industries	TRN	
+Triple-s Mgmt Cl B	GTS	
+Triumph	TGI	
+Trueblue	TBI	
+Trw	TRW	
+Ts & W/claymore Tax-ad	TYW	
+Tsakos Energy Navig	TNP	
+Tupperware	TUP	
+Turkcell Ilet	TKC	
+Tween Brands	TWB	
+Tyco	TYC	
+Tyco Electronics	TEL	
+Tyler	TYL	
+Tyson Foods	TSN	
+U G I	UGI	
+U I C I	UCI	
+U R S	URS	
+U S Cellular Sr Nt	UZG	
+U S G	USG	
+U S T	UST	
+U Store It	YSI	
+Ubs	UBS	
+Uhc	UNH	
+Uil	UIL	
+Ultra Petroleum Corp.	UPL	
+Ultrapar Particip	UGP	
+Umumprovident	UNM	
+Under Armour	UA	
+Unibanco Brasilrs	UBB	
+Unifi	UFI	
+Unifirst	UNF	
+Unilever	UN	
+Unilever America	UL	
+Union Pacific	UNP	
+Unisource	UNS	
+Unisys	UIS	
+Unit	UNT	
+United Auto	UAG	
+United Dominion	UDR	
+United Microelectron	UMC	
+United Rentals	URI	
+United States Cellular	UZV	
+United States Cellular Corp	USM	
+United States Steel	X	
+United Tech	UTX	
+Unitil Corp	UTL	
+Unitrin	UTR	
+Univ Health Real Est	UHT	
+Universal	UVV	
+Universal American Corp	UAM	
+Universal Health	UHS	
+Universal Technical Institute	UTI	
+Ups	UPS	
+Urstadt Biddle	UBP	
+Urstadt Biddle	UBA	
+Us Airways	LCC	
+Us Bancorp	USB	
+Usec	USU	
+V F	VFC	
+Vaalco Energy Inc.	EGY	
+Vail Resorts	MTN	
+Valassis	VCI	
+Valeant Pharma	VRX	
+Valero	VLO	
+Valhi	VHI	
+Validus Holdings Ltd	VR	
+Valley National Bancorp	VLY	
+Valmont	VMI	
+Valspar	VAL	
+Van Kampen Ca Value	VCV	
+Van Kampen Ny Val Mun	VNV	
+Van Kampen Pa Value	VPV	
+Van Kampn Grd Nj	VTJ	
+Van Kampn Grd Ny	VTN	
+Van Kampn Hi Incm Ii	VLT	
+Vanceinfo Tech Ads	VIT	
+Vanguard Natural Res	VNR	
+Varian Medical	VAR	
+Vector	VGR	
+Vectren	VVC	
+Venoco	VQ	
+Ventas	VTR	
+Veolia Environn	VE	
+Verifone	PAY	
+Verizon	VZ	
+Verso Paper Corp	VRS	
+Vesta Insurance	VTA	
+Viacom	VIA	
+Viacom	VIA.B	
+Viad	VVI	
+Vimpel	VIP	
+Vina Concha Y Toro	VCO	
+Virgin Mobile Usa	VM	
+Visa	V	
+Vishay Intertech	VSH	
+Visteon	VC	
+Vitro Sociedad	VTO	
+Vivo Participacoes S.a.	VIV	
+Vmware Inc.	VMW	
+Vodafone	VOD	
+Volt Info	VOL	
+Vonage Holdings Corp	VG	
+Vornado	VNO	
+Votorantim Celulose	VCP	
+Vulcan Materials	VMC	
+W	WHI	
+W & T	WTI	
+W H X	WHX	
+W M S	WMS	
+W.r. Grace	GRA	
+W.w. Grainger	GWW	
+Wabash	WNC	
+Wabco Holdings	WBC	
+Wabtec	WAB	
+Waddell & Reed	WDR	
+Wal Mart Stores	WMT	
+Walgreen	WAG	
+Walt Disney	DIS	
+Walter	WLT	
+Warner Music Crp	WMG	
+Wash Real Est	WRE	
+Washington Post	WPO	
+Waste Connections	WCN	
+Waters	WAT	
+Watsco	WSO	
+Watson	WPI	
+Watson Wyatt	WW	
+Watts Water	WTS	
+Wausau Paper	WPP	
+Weatherford	WFT	
+Webster	WBS	
+Weight Watchers	WTW	
+Weingarten	WRI	
+Weis Markets	WMK	
+Wellcare Healthplans	WCG	
+Wellpoint	WLP	
+Wells Fargo	WFC	
+Wells Fargo Co. (new)	BWF	
+Wendys	WEN	
+Wesco	WCC	
+West Pharma	WST	
+Westar	WR	
+Westcorp	WES	
+Western Alnc Bancorp	WAL	
+Western Asset	MTT	
+Western Digital	WDC	
+Western Refining	WNR	
+Western Union Co.	WU	
+Westlake	WLK	
+Westpac Banking	WBK	
+Westport	WRC	
+Westwood	WHG	
+Weyerhaeuser	WY	
+Wgl	WGL	
+Whirlpool	WHR	
+White Mtn	WTM	
+Whiting Pete	WLL	
+Willbros	WG	
+Williams	WMB	
+Williams Coal Gas	WTU	
+Williams Partners	WPZ	
+Williams Pipeline Lp	WMZ	
+Williams Sonoma	WSM	
+Willis	WSH	
+Wilmington	WL	
+Wimm Bill Dann	WBD	
+Windrose Medical	WRS	
+Winn Dixie Stores	WIN	
+Winnebago	WGO	
+Winthrop	FUR	
+Wipro	WIT	
+Wisconsin	WEC	
+Wm	WMI	
+Wm Strats Srs 2004-5	GJO	
+Wns (holdings) Limit	WNS	
+Wolverine Worldwide	WWW	
+Woori Finance	WF	
+World Fuel	INT	
+World Wrestling Entertainment	WWE	
+Worthington	WOR	
+Wp Carey	WPC	
+Wp Stuart	WPL	
+Wright Express	WXS	
+Wsp Holdings Ltd Ads	WH	
+Wuxi Pharmatech Ads	WX	
+Wyeth	WYE	
+Wyndham Worldwide Corp	WYN	
+Xcel	XEL	
+Xcel Energy Inc.	XCJ	
+Xerium	XRM	
+Xerox	XRX	
+Xinyuan Re Co Ads	XIN	
+Xl Capital	XL	
+Xto	XTO	
+Y P F Sociedade Anon	YPF	
+Yamana Gold Inc.	AUY	
+Yanzhou Coal Mining	YZC	
+Yingli Grn Engy Adr	YGE	
+Yum	YUM	
+Zale	ZLC	
+Zapata	ZAP	
+Zenith	ZNT	
+Zep	ZEP	
+Zimmer	ZMH	
+2007-1 Cl a Strats	GJW	
+3par	PAR	
+4 Kids Entertainment	KDE	
+7 Eleven	SE	
+99c Only Stores	NDN	
